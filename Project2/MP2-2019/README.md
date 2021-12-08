@@ -1,5 +1,5 @@
-#The Legend of Mew#
-
+# The Legend of Mew
+*This submission from [@Naarileth](https://github.com/Naarileth) & [@MaximeZmt](https://github.com/MaximeZmt)*
 
 ##CONTROLS##
 
@@ -54,7 +54,7 @@
     Notes: If you die during the whole quest, you will just be teleported to your home in a safe location. You will just have to walk again to your past location.
 
 
-##IMAGES##
+##IMAGES CREDITS##
 
   Most images used were created by Kenney Studio:
 	http://kenney.nl/
