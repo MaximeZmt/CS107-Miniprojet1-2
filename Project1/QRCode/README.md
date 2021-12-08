@@ -1,5 +1,5 @@
 # MiniProjet 1 - QuickResponse Code Generation
-*This submit is from Lam Christelle and Zammit Maxime*
+*This submit is from Lam Christelle & [@MaximeZmt](https://github.com/MaximeZmt)*
 
 These files contain :
 - README.md
